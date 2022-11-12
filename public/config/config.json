@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4710d643fed6548000a31f6b97e3ea72d6e00619",
+  "SCAN_LINK": "https://polygonscan.com/address/0x4710d643fed6548000a31f6b97e3ea72d6e00619",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Urban Kryptopunks",
+  "SYMBOL": "UK",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 60000000000000000000,
+  "DISPLAY_COST": 0.60,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/urbankryptopunk",
+  "SHOW_BACKGROUND": true
+}
